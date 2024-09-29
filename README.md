@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pdelcogliano. I’m a brownfield developer in a greenfield world, working in developent since the mid-90s. I come from the Microsoft world where my focus has been on SQL Server, and the .NET Framework stack. During my tenure as a developer, I never quenched my thirst for learning. I continually study to hone my cloud and DevOps skillset.
+- 👋 Hi, I’m @pdelcogliano. I’m a brownfield developer in a greenfield world, working in development since the mid-90s. I come from the Microsoft world where my focus has been on SQL Server, and the .NET Framework stack. During my tenure as a developer, I never quenched my thirst for learning. I continually study to hone my cloud, AI, and DevOps skillset.
 - 👀 I’m interested in various cloud and DevOps technologies. In my remaining spare time (and believe me, it’s SPARE), you’ll find me out in the neighborhood training for my next 10K.
 - 🌱 I’m currently learning Azure DevOps, AWS, Docker, Kubernetes, and APIs
 - 💞️ I’m looking to collaborate on any open source .Net project
